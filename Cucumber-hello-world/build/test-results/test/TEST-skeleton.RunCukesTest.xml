@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="skeleton.RunCukesTest" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="DESKTOP-IKSRIEF" time="0.0">
+  <properties/>
+  <system-out><![CDATA[
+5 Scenarios (?[32m5 passed?[0m)
+15 Steps (?[32m15 passed?[0m)
+0m0,433s
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

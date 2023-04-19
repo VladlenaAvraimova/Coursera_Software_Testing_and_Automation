@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Scenario: eaten few cukes" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-05-27T19:21:41" hostname="DESKTOP-IKSRIEF" time="0.163">
+  <properties/>
+  <testcase name="Given I have eaten 42 cukes" classname="Scenario: eaten few cukes" time="0.004"/>
+  <testcase name="When I wait 2 hour" classname="Scenario: eaten few cukes" time="0.002"/>
+  <testcase name="Then my Belly should growl" classname="Scenario: eaten few cukes" time="0.002"/>
+  <testcase name="classMethod" classname="Scenario: eaten few cukes" time="0.45"/>
+  <testcase name="Given I have eaten 10 cukes" classname="Scenario: eaten few cukes" time="0.001"/>
+  <testcase name="When I wait 2 hour" classname="Scenario: eaten few cukes" time="0.004"/>
+  <testcase name="Then my Belly should not growl" classname="Scenario: eaten few cukes" time="0.038"/>
+  <testcase name="classMethod" classname="Scenario: eaten few cukes" time="0.068"/>
+  <system-out><![CDATA[I'm eating 42 cukes!
+I ate 42 cucumbers.
+I'm eating 10 cukes!
+I ate 10 cucumbers.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
